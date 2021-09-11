@@ -1,0 +1,30 @@
+.input-group input{
+    background: rgba(255,255,255,0.18);
+    border-radius: 10px;
+    border: 2px solid #FFD366;
+}
+label{
+    color:#FFD366;
+}
+header .btn{
+    width:120px;
+    height:120px;
+    border-radius:50%;
+}
+.result{
+    padding:50px 40px;
+    border-radius:50%;
+}
+.text{
+    margin-left:20px;
+   
+}
+.main{
+    padding-bottom:320px;
+}
+.main p{
+    font-size:20px;
+}
+.main span{
+    font-size:12px;
+}

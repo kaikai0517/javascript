@@ -1,0 +1,65 @@
+header{
+    background-image: url(assets/Hero.png);
+    height:380px;
+    background-size: 100% 100%;
+}
+.header-btn{
+    width:450px;
+    color:black !important;
+    background: rgba(255,255,255,0.70) !important;
+    border: 3px solid #FFFFFF !important;
+}
+.btn-text{
+    display: inline;
+    padding-right: 270px;
+}
+.option{
+    margin-left:30px;
+}
+
+.option .btn{
+    margin:0 25px 0 0;
+    width:130px;
+}
+.title{
+    margin-top:150px;
+    margin-bottom:50px;
+    text-align: center;
+}
+.card img{
+    position: relative;
+    height:200px;
+}
+.card .h5{
+    color:white;
+    position:absolute;
+    top:160px;
+    left:10px;
+}
+.card small{
+    position:absolute;
+    color:white;
+    top:170px;
+    right:10px;
+}
+.ticket{
+    position:absolute;
+    right:0;
+    bottom:0;
+
+}
+.fa-clock{
+    color:purple;
+    margin-right:10px;
+}
+
+.fa-map-marker-alt{
+    color:palevioletred;
+    margin-right:10px;
+}
+.fa-mobile-alt{
+    margin-right:10px;
+}
+.dropdown-item{
+    width:450px !important;
+}
